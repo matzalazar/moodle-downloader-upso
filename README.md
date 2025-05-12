@@ -1,4 +1,4 @@
-# 📚 Moodle Downloader (Headless Automation) - UPSO
+# 📚 Moodle Downloader - UPSO
 
 Una herramienta automatizada para navegar, extraer y estructurar el contenido de plataformas Moodle usando Selenium en modo headless. Organiza el material por curso y semana, y permite automatizar el seguimiento del contenido académico.
 
