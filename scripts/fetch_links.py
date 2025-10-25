@@ -6,7 +6,9 @@ import os
 from selenium.webdriver.common.by import By
 from session import get_authenticated_browser
 
-MIS_CURSOS_XPATH = '/html/body/div[2]/nav/div[1]/nav/ul/li[3]/a'
+# MIS_CURSOS_XPATH = '/html/body/div[2]/nav/div[1]/nav/ul/li[3]/a'
+
+MIS_CURSOS_XPATH = '/html/body/div[2]/nav/div/div[1]/nav/ul/li[3]/a'
 OUTPUT_PATH = os.path.join("config", "course_links.json")
 
 def ya_configurado(filepath):
